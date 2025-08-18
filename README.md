@@ -1,5 +1,9 @@
+# codingGita Project
 
-## Project Files
-- README.md: Project documentation
-- style.css: Project styling
-- script.js: Project functionality
+A learning project to understand Git and version control.
+
+## Project Structure
+- css/: Styling files
+- js/: JavaScript files
+- images/: Project images
+- docs/: Project documentation
